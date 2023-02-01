@@ -1,1 +1,4 @@
 /foo* @konrad-jamrozik
+/foofile.txt @konrad-jamrozik
+/bar/ @konrad-jamrozik
+/baz* @konrad-jamrozik
