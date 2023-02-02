@@ -1,3 +1,4 @@
+/** @konrad-jamrozik
 /* @konrad-jamrozik
 /foo/**/a.txt @konrad-jamrozik
 /foo/*/a.txt @konrad-jamrozik
