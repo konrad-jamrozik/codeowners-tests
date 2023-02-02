@@ -1,5 +1,7 @@
 /* @konrad-jamrozik
+/foo/**/a.txt @konrad-jamrozik
+/foo/*/a.txt @konrad-jamrozik
+
 /foofile.txt @konrad-jamrozik
-/foo* @konrad-jamrozik
 /bar/ @konrad-jamrozik
 /baz* @konrad-jamrozik
