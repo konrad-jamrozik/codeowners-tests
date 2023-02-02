@@ -4,7 +4,7 @@
 /foo/*/a.txt @konrad-jamrozik
 
 /ccc/ddd* @konrad-jamrozik
-/bbb/** @konrad-jamrozi
+/bbb/** @konrad-jamrozik
 /bbb/* @konrad-jamrozik
 /bbb/ @konrad-jamrozik
 /aaa* @konrad-jamrozik
