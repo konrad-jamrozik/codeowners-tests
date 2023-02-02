@@ -3,6 +3,8 @@
 /foo/**/a.txt @konrad-jamrozik
 /foo/*/a.txt @konrad-jamrozik
 
-/foofile.txt @konrad-jamrozik
-/bar/ @konrad-jamrozik
-/baz* @konrad-jamrozik
+/ccc/ddd* @konrad-jamrozik
+/bbb/** @konrad-jamrozi
+/bbb/* @konrad-jamrozik
+/bbb/ @konrad-jamrozik
+/aaa* @konrad-jamrozik
